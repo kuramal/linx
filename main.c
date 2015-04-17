@@ -1,7 +1,13 @@
 #include<stdio.h>
 
 int main(){
-	printf("hello world\n");
-	printf("github test\n");
+
+	int i = 0;
+
+	for (;i < 5; i++ll){
+
+		printf("hello world\n");
+		printf("github test\n");
+	}
 }
 
