@@ -40,10 +40,6 @@ int file_porter(char *src_dir, char *dst_dir)
 	int ret;
 	DIR *cur_dir;
 
-	printf("src dir %s\n", src_dir);
-	printf("dst dir %s\n", dst_dir);
-	printf("#######################\n");
-
 	char new_src_dir[256] = {'\0',};
 	char new_dst_dir[256] = {'\0',};
 
